@@ -21,14 +21,14 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0579_000.yaml, hash: 'sha256:ae9b5c5e039271d9e32356290ba1cda9f02dfe42f7a018ce9469e1d1a4d5a54a'}
+  - {seq: 0, filename: KR6q0579_000.yaml, hash: 'sha256:c77d44828e91dc7583ec282784627fc97562cbac80a6fb0cc636b9992461937f'}
   - {seq: 1, filename: KR6q0579_001.yaml, hash: 'sha256:5ee04294c8697f42f904d2272b4c565f37b313c4dfa4f62608ca5f8f13c1ff00'}
   - {seq: 2, filename: KR6q0579_002.yaml, hash: 'sha256:e70374d4616d122148217ff0d4b60a548cb4d5f66fccd91ed3e22cac764f4c36'}
   - {seq: 3, filename: KR6q0579_003.yaml, hash: 'sha256:0d9946afe080158088b06c91a976a03bbd701075112eb816f1f7fd86859b2c67'}
   - {seq: 4, filename: KR6q0579_004.yaml, hash: 'sha256:f1590ff51dd04c7f963564600f2e061c936eaf3e94ba03d62a0152e05cc9f422'}
   - {seq: 5, filename: KR6q0579_005.yaml, hash: 'sha256:e1ca55ed6ab319a40a433db41d34b5804fe124e1d19ba57107569a32964279ed'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0579_000.markers.yaml, hash: 'sha256:56dbafcf88a0691b3e4311266fa29429e4faacb877e2ba88f13ab1e1c7a74d7b'}
+  - {seq: 0, role: markers, filename: assets/KR6q0579_000.markers.yaml, hash: 'sha256:f3ee18611ad81d04fbc5625c62e806b8e1429f84968bdd4a37a2c818f4b81373'}
   - {seq: 1, role: markers, filename: assets/KR6q0579_001.markers.yaml, hash: 'sha256:038b69145db79fd6e6f797c820c5465d55bf9278596945e2a9fac9f7e51737c2'}
   - {seq: 2, role: markers, filename: assets/KR6q0579_002.markers.yaml, hash: 'sha256:8a458818d80137754113c5b5d0b34892e81f5f000f2fd64bdc54f618e7041493'}
   - {seq: 3, role: markers, filename: assets/KR6q0579_003.markers.yaml, hash: 'sha256:522ef5814a23272982d9ea8abfa713357e9e40c2e55bf4e094189474dba8f809'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0579_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0579_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 通睿序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0579_J_000-mulu-3
     span:
-    - front
+    - body
     - 10
     - 10
   label: 胡廷頓序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0579_J_000-mulu-4
     span:
-    - front
+    - body
     - 271
     - 271
   label: 智傳序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0579_J_000-mulu-5
     span:
-    - front
+    - body
     - 475
     - 475
   label: 行實
@@ -565,7 +565,7 @@ table_of_contents:
   label: 與太谷眾居士
   type: mulu
   level: 1
-hash: sha256:d2abe66912ff69aa0538999960e9855c09842d796f5becd1d030e0635e67c1ae
+hash: sha256:bbf95762247ea1382705a77ae680a017396c7ed3fb53a18565f90e312e196e80
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
